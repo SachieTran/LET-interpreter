@@ -1,6 +1,6 @@
-;; Name: Sachie (Tran) Tran
+;; Sachie Tran
 ;; LET-interpreter
-;; Starter file for HW5
+
 
 (load "helpers.scm")
 
